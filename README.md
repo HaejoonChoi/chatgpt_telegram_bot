@@ -1,4 +1,8 @@
-# ChatGPT Telegram Bot: **GPT-4. Fast. No daily limits. Special chat modes**
+# ChatGPT Telegram Bot
+
+**** this is a fork from https://github.com/father-bot/chatgpt_telegram_bot. 
+
+
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/karfly/chatgpt_telegram_bot/main/static/header.png" align="center" style="width: 100%" />
